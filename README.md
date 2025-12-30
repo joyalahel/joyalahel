@@ -26,7 +26,7 @@ I'm a third-year **Software and Networks Engineering** student at Université An
 - Data Structures & Algorithms
 - Database Design & SQL
 - Software Architecture & Design
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence
 - Computer Networks & Routing
 - Web Development
 - Computer Architecture
