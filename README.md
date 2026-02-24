@@ -49,7 +49,7 @@ I'm a third-year **Software and Networks Engineering** student at Université An
 Feel free to reach out if you'd like to collaborate on projects or discuss software development!
 
 -  Email: joyelahel@gmail.com
--  LinkedIn: [linkedin.com/in/joy-al-ahel(https://www.linkedin.com/in/joy-al-ahel)
+-  LinkedIn: [linkedin.com/in/joy-al-ahel]
 
 ---
 
